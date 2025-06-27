@@ -11,7 +11,7 @@ namespace ChatBotFinalPoe.Models
             "good morning", "good afternoon", "good evening",
             "greetings", "howdy", "what's up"
         };
-
+        
         private static readonly string[] TaskVerbs =
         {
             "add", "create", "make", "new", "set",
