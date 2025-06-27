@@ -1,8 +1,8 @@
 YT Link:https://youtu.be/a7BUps0cyvU
 
-GitHub link organization repo:[https://github.com/SmitJaco/PROG6221-summative-final-SmitJaco/new/master?filename=README.md](https://github.com/IIEMSA/prog6221-summative-final-SmitJaco)
+GitHub link organization repo: https://github.com/IIEMSA/prog6221-summative-final-SmitJaco
 
-public own repo :https://github.com/SmitJaco/PROG6221-summative-final-SmitJaco/new/master?filename=README.md
+public own repo : https://github.com/SmitJaco/PROG6221-summative-final-SmitJaco
 
 
 i have commited everything on the organizations repo but can not make it public so the public repo does not have as many commits
